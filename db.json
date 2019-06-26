@@ -1,0 +1,24 @@
+{
+"product": [
+{"id":1,"name":"BMW","category":"Puce"},
+{"id":2,"name":"Audi","category":"Violet"},
+{"id":3,"name":"Hyundai","category":"Green"},
+{"id":4,"name":"Scion","category":"Goldenrod"},
+{"id":5,"name":"Maserati","category":"Green"},
+{"id":6,"name":"Ford","category":"Khaki"},
+{"id":7,"name":"BMW","category":"Red"},
+{"id":8,"name":"Toyota","category":"Yellow"},
+{"id":9,"name":"Nissan","category":"Turquoise"},
+{"id":10,"name":"Cadillac","category":"Maroon"},
+{"id":11,"name":"Mercedes-Benz","category":"Crimson"},
+{"id":12,"name":"Studebaker","category":"Puce"},
+{"id":13,"name":"Mercury","category":"Fuscia"},
+{"id":14,"name":"GMC","category":"Puce"},
+{"id":15,"name":"Mercury","category":"Fuscia"},
+{"id":16,"name":"Mercedes-Benz","category":"Pink"},
+{"id":17,"name":"Buick","category":"Goldenrod"},
+{"id":18,"name":"GMC","category":"Teal"},
+{"id":19,"name":"Mercedes-Benz","category":"Yellow"},
+{"id":20,"name":"Ford","category":"Purple"}
+]
+}
